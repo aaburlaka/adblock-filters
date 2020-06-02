@@ -1,2 +1,7 @@
 code.jivosite.com$script
 maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
+
+! yandex ads popups
+yandex.ru##.dist-popup__content.popup__content
+yandex.ru##.distr-popup_js_inited.popup2_js_inited
+
